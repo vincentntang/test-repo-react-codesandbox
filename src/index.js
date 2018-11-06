@@ -10,6 +10,7 @@ function App() {
       <h2>Start editing to see some magic happen!</h2>
       <h3>hello</h3>
       <h4>Hello</h4>
+      <h6>Test</h6>
     </div>
   );
 }
